@@ -1,0 +1,71 @@
+body{
+  background-image: url(file:///Users/costanzaguala/Desktop/Boolean/MaterialeEsercizioLim/background.jpg);
+  background-size: cover;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.container{
+  margin: auto;
+  padding: 40px;
+  margin-top: 40px;
+  width: 900px;
+  text-align: center;
+  background-color: rgba(0,0,0,0.6);
+  border-radius: 15px;
+}
+
+.logo{
+  width: 200px;
+}
+
+.title{
+  color: rgba(0,221,0);
+}
+
+.menu-bar{
+  background-color: rgba(0,221,0);
+  width: 850px;
+  padding: 10px;
+  display: inline-block;
+}
+
+.lista{
+  padding-top: 20px;
+  text-align: left;
+  margin-left: 10px;
+  color: white;
+}
+
+/* senza opacita del container */
+.statogino22,
+.statomike24,
+.statofede154 {
+  background-color: transparent;
+  color: white;
+  margin-bottom: 20px;
+}
+
+.statogino22{
+  background-color: orange;
+  width: 250px;
+  height: 30px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.statomike24{
+  background-color: green;
+  width: 450px;
+  height: 30px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.statofede154{
+  background-color: darkred;
+  color: darkred;
+  width: 150px;
+  height: 30px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
